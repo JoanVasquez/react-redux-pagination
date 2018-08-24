@@ -1,4 +1,4 @@
-# Boiler Template React Redux
+# Redux Pagination
 
 In this code I'll show you how to create a pagination using react and redux, I also use paginator, fetch and jsonplaceholder.
 Whether this code helped you, please donate for a coffee. Thanks.
